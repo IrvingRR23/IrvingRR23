@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Irving Rodríguez!
 
-💻 **Ingeniero en Sistemas | Full Stack Developer | Ciberseguridad & Redes**
+ **Ingeniero en Sistemas | Full Stack Developer | Ciberseguridad & Redes**
 
 Soy un desarrollador con experiencia en **backend, frontend y seguridad informática**, apasionado por la creación de sistemas funcionales y eficientes.  
 He trabajado en proyectos que integran bases de datos, servicios web y aplicaciones con interfaces limpias y usabilidad profesional.  
@@ -8,7 +8,7 @@ Mi enfoque actual está orientado a la **ciberseguridad y el desarrollo full sta
 
 ---
 
-### ⚙️ Tecnologías que manejo
+###  Tecnologías que manejo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,csharp,dotnet,flask,linux,git,github&theme=dark" />
 </p>
@@ -21,9 +21,9 @@ Mi enfoque actual está orientado a la **ciberseguridad y el desarrollo full sta
 
 ---
 
-### 🚀 Proyecto Destacado
+###  Proyecto Destacado
 
-#### 🧠 *Prototipo de Sistema de Monitorización de Red Local para la Detección de Tráfico Inusual o No Autorizado*
+####  *Prototipo de Sistema de Monitorización de Red Local para la Detección de Tráfico Inusual o No Autorizado*
 
 Desarrollo de un sistema inteligente para el análisis y detección de comportamientos anómalos dentro de una red local.  
 Integra módulos de:
@@ -32,8 +32,8 @@ Integra módulos de:
 - **Alertas automáticas y panel de visualización**
 - **Despliegue con Flask y MySQL**
 
-🧩 *Tecnologías principales:* Python, Flask, MySQL, HTML, CSS, JavaScript  
-🔐 *Enfoque:* Seguridad informática, IA aplicada y monitoreo de red
+ *Tecnologías principales:* Python, Flask, MySQL, HTML, CSS, JavaScript  
+ *Enfoque:* Seguridad informática, IA aplicada y monitoreo de red
 
 ---
 
@@ -46,17 +46,17 @@ Integra módulos de:
 
 ---
 
-### 🎯 Actualmente trabajando en
-- 🧱 Desarrollo de **servicios backend en .NET**
-- 🧠 Mejora del **sistema de monitoreo de red**
-- 🔐 Fortalecimiento en **ciberseguridad y hacking ético**
+###  Actualmente trabajando en
+-  Desarrollo de **servicios backend en .NET**
+-  Mejora del **sistema de monitoreo de red**
+-  Fortalecimiento en **ciberseguridad y hacking ético**
 
 ---
 
 ### 📫 Contacto
-- 💼 [LinkedIn](https://www.linkedin.com/in/irving-rodriguez-661b7b31b/)
-- 🧰 [GitHub](https://github.com/IrvingRR23)
-- ✉️ **irvingrodriguez@email.com** *(opcional)*
+-  [LinkedIn](https://www.linkedin.com/in/irving-rodriguez-661b7b31b/)
+-  [GitHub](https://github.com/IrvingRR23)
+-  **irvingrrodriguez1@email.com** 
 
 ---
 
