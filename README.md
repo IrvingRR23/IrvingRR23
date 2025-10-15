@@ -50,7 +50,6 @@ Integra módulos de:
 -  Desarrollo de **servicios backend en .NET**
 -  Mejora del **sistema de monitoreo de red**
 -  Fortalecimiento en **ciberseguridad y hacking ético**
-
 ---
 
 ### 📫 Contacto
