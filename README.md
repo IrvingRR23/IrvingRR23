@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Irving Rodríguez!
+# ¡Hola, soy Irving Rodríguez!
 
  **Ingeniero en Sistemas | Full Stack Developer | Ciberseguridad & Redes**
 
@@ -13,7 +13,7 @@ Mi enfoque actual está orientado a la **ciberseguridad y el desarrollo full sta
   <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,csharp,dotnet,flask,linux,git,github&theme=dark" />
 </p>
 
-📚 También he trabajado con:
+ También he trabajado con:
 - **UniVerse BASIC** (desarrollo de procesos internos y reportes)
 - **SQL Server / MySQL Workbench**
 - **Desarrollo de Web Services (C# y .NET)**
@@ -37,7 +37,7 @@ Integra módulos de:
 
 ---
 
-### 📊 Estadísticas
+###  Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IrvingRR23&show_icons=true&theme=radical" height="180em"/>
