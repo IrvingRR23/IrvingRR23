@@ -59,4 +59,4 @@ Integra módulos de:
 
 ---
 
-⭐ *“El conocimiento se demuestra creando. Cada línea de código es una oportunidad para aprender.”*
+ *“El conocimiento se demuestra creando. Cada línea de código es una oportunidad para aprender.”*
